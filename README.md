@@ -1,7 +1,5 @@
 # Eat Da Burger!
 
-A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize
-
 ## Description
 
 This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and elements from the Materialize framework and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars.
@@ -24,3 +22,14 @@ Finally, run the node server locally.
 	node server
 	
 Now, open the local application on port 8080 at the URL: `http://localhost:8080/`.
+
+## Built With
+* Node.js
+* Express
+* MySQL
+* Handlebars
+* Materialize
+
+## Created by
+
+Edgar Gonzalez / UCR Extension Program Coding Bootcamp Student
